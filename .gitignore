@@ -2,3 +2,5 @@ photos
 test
 train
 custom_tests
+data
+.ipynb_checkpoints
